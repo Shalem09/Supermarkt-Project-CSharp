@@ -12,26 +12,26 @@ age-based restrictions, and a checkout flow.
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](assets/screenshots/main-menu.png)
+![Main Menu](assets/main-menu.png)
 
 ### Product Categories
-![Dairy Section](assets/screenshots/dairy-section.png)
-![Meat Section](assets/screenshots/meat-section.png)
+![Dairy Section](assets/dairy-section.png)
+![Meat Section](assets/meat-section.png)
 
 ### Age Restriction (Drinks)
-![Underage Restriction](assets/screenshots/drinks-underage.png)
+![Underage Restriction](assets/drinks-underage.png)
 
 ### Weight-Based Product Input
-![Weight Input](assets/screenshots/weight-input.png)
+![Weight Input](assets/weight-input.png)
 
 ### Shopping Cart
-![Shopping Cart](assets/screenshots/shopping-cart.png)
+![Shopping Cart](assets/shopping-cart.png)
 
 ### Checkout & Validation
-![Checkout Validation](assets/screenshots/checkout-validation.png)
+![Checkout Validation](assets/checkout-validation.png)
 
 ### Payment Success
-![Payment Success](assets/screenshots/payment-success.png)
+![Payment Success](assets/payment-success.png)
 
 ------------------------------------------------------------
 CORE CONCEPTS & DESIGN
@@ -126,5 +126,6 @@ TECHNOLOGIES
 - WinForms
 - JSON serialization & deserialization
 - Object-Oriented Programming
+
 
 
