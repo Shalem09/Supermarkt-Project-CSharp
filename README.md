@@ -24,9 +24,6 @@ age-based restrictions, and a checkout flow.
 ### Weight-Based Product Input
 ![Weight Input](assets/weight-input.png)
 
-### Shopping Cart
-![Shopping Cart](assets/shopping-cart.png)
-
 ### Checkout & Validation
 ![Checkout Validation](assets/checkout-validation.png)
 
@@ -126,6 +123,7 @@ TECHNOLOGIES
 - WinForms
 - JSON serialization & deserialization
 - Object-Oriented Programming
+
 
 
 
